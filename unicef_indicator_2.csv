@@ -1,0 +1,598 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.70999908,Female,Units,%,Modelled,,,Total
+Afghanistan,AF,AFG,4,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.48999977,Male,Units,%,Modelled,,,Total
+Afghanistan,AF,AFG,4,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.56999969,Total,Units,%,Modelled,,,Total
+Albania,AL,ALB,8,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,19.43000031,Female,Units,%,Modelled,,,Total
+Albania,AL,ALB,8,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.02000046,Male,Units,%,Modelled,,,Total
+Albania,AL,ALB,8,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,20.75,Total,Units,%,Modelled,,,Total
+Algeria,DZ,DZA,12,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.31999969,Female,Units,%,Modelled,,,Total
+Algeria,DZ,DZA,12,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.32999992,Male,Units,%,Modelled,,,Total
+Algeria,DZ,DZA,12,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.22999954,Total,Units,%,Modelled,,,Total
+American Samoa,AS,ASM,16,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,61.81000137,Female,Units,%,Modelled,,,Total
+American Samoa,AS,ASM,16,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,59.70999908,Male,Units,%,Modelled,,,Total
+American Samoa,AS,ASM,16,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,60.72000122,Total,Units,%,Modelled,,,Total
+Andorra,AD,AND,20,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.85000038,Female,Units,%,Modelled,,,Total
+Andorra,AD,AND,20,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.80999947,Male,Units,%,Modelled,,,Total
+Andorra,AD,AND,20,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,26.89999962,Total,Units,%,Modelled,,,Total
+Angola,AO,AGO,24,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.72000027,Female,Units,%,Modelled,,,Total
+Angola,AO,AGO,24,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,11.57999992,Male,Units,%,Modelled,,,Total
+Angola,AO,AGO,24,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.149999619999999,Total,Units,%,Modelled,,,Total
+Antigua and Barbuda,AG,ATG,28,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,45.20999908,Female,Units,%,Modelled,,,Total
+Antigua and Barbuda,AG,ATG,28,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,43.34999847,Male,Units,%,Modelled,,,Total
+Antigua and Barbuda,AG,ATG,28,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,44.27000046,Total,Units,%,Modelled,,,Total
+Argentina,AR,ARG,32,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.41999817,Female,Units,%,Modelled,,,Total
+Argentina,AR,ARG,32,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.06999969,Male,Units,%,Modelled,,,Total
+Argentina,AR,ARG,32,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.24000168,Total,Units,%,Modelled,,,Total
+Armenia,AM,ARM,51,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.54000092,Female,Units,%,Modelled,,,Total
+Armenia,AM,ARM,51,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.98999977,Male,Units,%,Modelled,,,Total
+Armenia,AM,ARM,51,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.95999908,Total,Units,%,Modelled,,,Total
+Australia,AU,AUS,36,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.22999954,Female,Units,%,Modelled,,,Total
+Australia,AU,AUS,36,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.72000122,Male,Units,%,Modelled,,,Total
+Australia,AU,AUS,36,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.97000122,Total,Units,%,Modelled,,,Total
+Austria,AT,AUT,40,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.77000046,Female,Units,%,Modelled,,,Total
+Austria,AT,AUT,40,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.79000092,Male,Units,%,Modelled,,,Total
+Austria,AT,AUT,40,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,29.37000084,Total,Units,%,Modelled,,,Total
+Azerbaijan,AZ,AZE,31,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.81999969,Female,Units,%,Modelled,,,Total
+Azerbaijan,AZ,AZE,31,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.799999239999998,Male,Units,%,Modelled,,,Total
+Azerbaijan,AZ,AZE,31,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.87999916,Total,Units,%,Modelled,,,Total
+Bahamas,BS,BHS,44,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,51.66999817,Female,Units,%,Modelled,,,Total
+Bahamas,BS,BHS,44,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,46.13999939,Male,Units,%,Modelled,,,Total
+Bahamas,BS,BHS,44,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,48.91999817,Total,Units,%,Modelled,,,Total
+Bahrain,BH,BHR,48,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.97999954,Female,Units,%,Modelled,,,Total
+Bahrain,BH,BHR,48,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,45.18000031,Male,Units,%,Modelled,,,Total
+Bahrain,BH,BHR,48,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,44.09000015,Total,Units,%,Modelled,,,Total
+Bangladesh,BD,BGD,50,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.59000015,Female,Units,%,Modelled,,,Total
+Bangladesh,BD,BGD,50,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.840000153,Male,Units,%,Modelled,,,Total
+Bangladesh,BD,BGD,50,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.18999958,Total,Units,%,Modelled,,,Total
+Barbados,BB,BRB,52,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.36000061,Female,Units,%,Modelled,,,Total
+Barbados,BB,BRB,52,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,41.06999969,Male,Units,%,Modelled,,,Total
+Barbados,BB,BRB,52,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,41.70000076,Total,Units,%,Modelled,,,Total
+Belarus,BY,BLR,112,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.27999973,Female,Units,%,Modelled,,,Total
+Belarus,BY,BLR,112,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.10000038,Male,Units,%,Modelled,,,Total
+Belarus,BY,BLR,112,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,19.29000092,Total,Units,%,Modelled,,,Total
+Belgium,BE,BEL,56,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,20.93000031,Female,Units,%,Modelled,,,Total
+Belgium,BE,BEL,56,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.26000023,Male,Units,%,Modelled,,,Total
+Belgium,BE,BEL,56,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.61000061,Total,Units,%,Modelled,,,Total
+Belize,BZ,BLZ,84,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,44.29999924,Female,Units,%,Modelled,,,Total
+Belize,BZ,BLZ,84,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.70000076,Male,Units,%,Modelled,,,Total
+Belize,BZ,BLZ,84,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,43.49000168,Total,Units,%,Modelled,,,Total
+Benin,BJ,BEN,204,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.06999969,Female,Units,%,Modelled,,,Total
+Benin,BJ,BEN,204,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.05000019,Male,Units,%,Modelled,,,Total
+Benin,BJ,BEN,204,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.56000042,Total,Units,%,Modelled,,,Total
+Bermuda,BM,BMU,60,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.31999969,Female,Units,%,Modelled,,,Total
+Bermuda,BM,BMU,60,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.22999954,Male,Units,%,Modelled,,,Total
+Bermuda,BM,BMU,60,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.27000046,Total,Units,%,Modelled,,,Total
+Bhutan,BT,BTN,64,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.65999985,Female,Units,%,Modelled,,,Total
+Bhutan,BT,BTN,64,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.350000380000001,Male,Units,%,Modelled,,,Total
+Bhutan,BT,BTN,64,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.38999939,Total,Units,%,Modelled,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.02999878,Female,Units,%,Modelled,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,41.79000092,Male,Units,%,Modelled,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.47999954,Total,Units,%,Modelled,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.54000092,Female,Units,%,Modelled,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.84000015,Male,Units,%,Modelled,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.29000092,Total,Units,%,Modelled,,,Total
+Botswana,BW,BWA,72,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.01000023,Female,Units,%,Modelled,,,Total
+Botswana,BW,BWA,72,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.67000008,Male,Units,%,Modelled,,,Total
+Botswana,BW,BWA,72,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.32999992,Total,Units,%,Modelled,,,Total
+Brazil,BR,BRA,76,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.70999908,Female,Units,%,Modelled,,,Total
+Brazil,BR,BRA,76,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,30.94000053,Male,Units,%,Modelled,,,Total
+Brazil,BR,BRA,76,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.80999947,Total,Units,%,Modelled,,,Total
+Brunei,BN,BRN,96,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.25,Female,Units,%,Modelled,,,Total
+Brunei,BN,BRN,96,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,44.16999817,Male,Units,%,Modelled,,,Total
+Brunei,BN,BRN,96,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,41.79000092,Total,Units,%,Modelled,,,Total
+Bulgaria,BG,BGR,100,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.51000023,Female,Units,%,Modelled,,,Total
+Bulgaria,BG,BGR,100,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.87999916,Male,Units,%,Modelled,,,Total
+Bulgaria,BG,BGR,100,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,26.87000084,Total,Units,%,Modelled,,,Total
+Burkina Faso,BF,BFA,854,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9,Female,Units,%,Modelled,,,Total
+Burkina Faso,BF,BFA,854,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,4.139999866,Male,Units,%,Modelled,,,Total
+Burkina Faso,BF,BFA,854,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,6.5399999619999996,Total,Units,%,Modelled,,,Total
+Burundi,BI,BDI,108,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,5.730000019,Female,Units,%,Modelled,,,Total
+Burundi,BI,BDI,108,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.860000134,Male,Units,%,Modelled,,,Total
+Burundi,BI,BDI,108,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,6.800000191,Total,Units,%,Modelled,,,Total
+Cape Verde,CV,CPV,132,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.31999969,Female,Units,%,Modelled,,,Total
+Cape Verde,CV,CPV,132,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.579999924,Male,Units,%,Modelled,,,Total
+Cape Verde,CV,CPV,132,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.39000034,Total,Units,%,Modelled,,,Total
+Cambodia,KH,KHM,116,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.760000229,Female,Units,%,Modelled,,,Total
+Cambodia,KH,KHM,116,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.55999947,Male,Units,%,Modelled,,,Total
+Cambodia,KH,KHM,116,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.27999973,Total,Units,%,Modelled,,,Total
+Cameroon,CM,CMR,120,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.09000015,Female,Units,%,Modelled,,,Total
+Cameroon,CM,CMR,120,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.73999977,Male,Units,%,Modelled,,,Total
+Cameroon,CM,CMR,120,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.89999962,Total,Units,%,Modelled,,,Total
+Canada,CA,CAN,124,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,27.23999977,Female,Units,%,Modelled,,,Total
+Canada,CA,CAN,124,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,30.72999954,Male,Units,%,Modelled,,,Total
+Canada,CA,CAN,124,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,29.01000023,Total,Units,%,Modelled,,,Total
+Central African Republic,CF,CAF,140,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.72000027,Female,Units,%,Modelled,,,Total
+Central African Republic,CF,CAF,140,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14,Male,Units,%,Modelled,,,Total
+Central African Republic,CF,CAF,140,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.350000380000001,Total,Units,%,Modelled,,,Total
+Chad,TD,TCD,148,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,8.1700000760000009,Female,Units,%,Modelled,,,Total
+Chad,TD,TCD,148,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.98999977,Male,Units,%,Modelled,,,Total
+Chad,TD,TCD,148,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.600000381,Total,Units,%,Modelled,,,Total
+Chile,CL,CHL,152,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,54.81000137,Female,Units,%,Modelled,,,Total
+Chile,CL,CHL,152,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,55.34000015,Male,Units,%,Modelled,,,Total
+Chile,CL,CHL,152,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,55.08000183,Total,Units,%,Modelled,,,Total
+China,CN,CHN,156,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.31999969,Female,Units,%,Modelled,,,Total
+China,CN,CHN,156,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.80999947,Male,Units,%,Modelled,,,Total
+China,CN,CHN,156,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,20.73999977,Total,Units,%,Modelled,,,Total
+Colombia,CO,COL,170,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.60000038,Female,Units,%,Modelled,,,Total
+Colombia,CO,COL,170,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.06999969,Male,Units,%,Modelled,,,Total
+Colombia,CO,COL,170,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,26.75,Total,Units,%,Modelled,,,Total
+Comoros,KM,COM,174,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.56999969,Female,Units,%,Modelled,,,Total
+Comoros,KM,COM,174,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.820000172,Male,Units,%,Modelled,,,Total
+Comoros,KM,COM,174,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.65999985,Total,Units,%,Modelled,,,Total
+Congo,CG,COG,178,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.55000019,Female,Units,%,Modelled,,,Total
+Congo,CG,COG,178,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,11.399999619999999,Male,Units,%,Modelled,,,Total
+Congo,CG,COG,178,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.97999954,Total,Units,%,Modelled,,,Total
+Cook Islands,CK,COK,184,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,68.51999664,Female,Units,%,Modelled,,,Total
+Cook Islands,CK,COK,184,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,67.20999908,Male,Units,%,Modelled,,,Total
+Cook Islands,CK,COK,184,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,67.87000275,Total,Units,%,Modelled,,,Total
+Costa Rica,CR,CRI,188,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.88999939,Female,Units,%,Modelled,,,Total
+Costa Rica,CR,CRI,188,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.5,Male,Units,%,Modelled,,,Total
+Costa Rica,CR,CRI,188,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,34.15999985,Total,Units,%,Modelled,,,Total
+Croatia,HR,HRV,191,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.39999962,Female,Units,%,Modelled,,,Total
+Croatia,HR,HRV,191,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.46999931,Male,Units,%,Modelled,,,Total
+Croatia,HR,HRV,191,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.04000092,Total,Units,%,Modelled,,,Total
+Cuba,CU,CUB,192,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.67000008,Female,Units,%,Modelled,,,Total
+Cuba,CU,CUB,192,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.02999878,Male,Units,%,Modelled,,,Total
+Cuba,CU,CUB,192,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.90999985,Total,Units,%,Modelled,,,Total
+Cyprus,CY,CYP,196,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,27.27000046,Female,Units,%,Modelled,,,Total
+Cyprus,CY,CYP,196,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.88000107,Male,Units,%,Modelled,,,Total
+Cyprus,CY,CYP,196,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.18999863,Total,Units,%,Modelled,,,Total
+Czech Republic,CZ,CZE,203,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.149999619999999,Female,Units,%,Modelled,,,Total
+Czech Republic,CZ,CZE,203,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.53000069,Male,Units,%,Modelled,,,Total
+Czech Republic,CZ,CZE,203,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.399999619999999,Total,Units,%,Modelled,,,Total
+Ivory Coast,CI,CIV,384,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.23999977,Female,Units,%,Modelled,,,Total
+Ivory Coast,CI,CIV,384,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.77999973,Male,Units,%,Modelled,,,Total
+Ivory Coast,CI,CIV,384,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.48999977,Total,Units,%,Modelled,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.549999239999998,Female,Units,%,Modelled,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.62000084,Male,Units,%,Modelled,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,19.64999962,Total,Units,%,Modelled,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.31999969,Female,Units,%,Modelled,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.36999989,Male,Units,%,Modelled,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.84000015,Total,Units,%,Modelled,,,Total
+Denmark,DK,DNK,208,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.93000031,Female,Units,%,Modelled,,,Total
+Denmark,DK,DNK,208,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.65999985,Male,Units,%,Modelled,,,Total
+Denmark,DK,DNK,208,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.39999962,Total,Units,%,Modelled,,,Total
+Djibouti,DJ,DJI,262,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.23999977,Female,Units,%,Modelled,,,Total
+Djibouti,DJ,DJI,262,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.5399999619999996,Male,Units,%,Modelled,,,Total
+Djibouti,DJ,DJI,262,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.36999989,Total,Units,%,Modelled,,,Total
+Dominica,DM,DMA,212,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.88000107,Female,Units,%,Modelled,,,Total
+Dominica,DM,DMA,212,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.93000031,Male,Units,%,Modelled,,,Total
+Dominica,DM,DMA,212,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.90000153,Total,Units,%,Modelled,,,Total
+Dominican Republic,DO,DOM,214,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.68999863,Female,Units,%,Modelled,,,Total
+Dominican Republic,DO,DOM,214,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.98999977,Male,Units,%,Modelled,,,Total
+Dominican Republic,DO,DOM,214,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.81999969,Total,Units,%,Modelled,,,Total
+Ecuador,EC,ECU,218,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.28000069,Female,Units,%,Modelled,,,Total
+Ecuador,EC,ECU,218,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.27000046,Male,Units,%,Modelled,,,Total
+Ecuador,EC,ECU,218,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.29000092,Total,Units,%,Modelled,,,Total
+Egypt,EG,EGY,818,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,45.15999985,Female,Units,%,Modelled,,,Total
+Egypt,EG,EGY,818,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.36000061,Male,Units,%,Modelled,,,Total
+Egypt,EG,EGY,818,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,40.15000153,Total,Units,%,Modelled,,,Total
+El Salvador,SV,SLV,222,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,29.47999954,Female,Units,%,Modelled,,,Total
+El Salvador,SV,SLV,222,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.17000008,Male,Units,%,Modelled,,,Total
+El Salvador,SV,SLV,222,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,27.26000023,Total,Units,%,Modelled,,,Total
+Equatorial Guinea,GQ,GNQ,226,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.68000031,Female,Units,%,Modelled,,,Total
+Equatorial Guinea,GQ,GNQ,226,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.13000011,Male,Units,%,Modelled,,,Total
+Equatorial Guinea,GQ,GNQ,226,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.399999619999999,Total,Units,%,Modelled,,,Total
+Eritrea,ER,ERI,232,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.43000031,Female,Units,%,Modelled,,,Total
+Eritrea,ER,ERI,232,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.489999771,Male,Units,%,Modelled,,,Total
+Eritrea,ER,ERI,232,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.93999958,Total,Units,%,Modelled,,,Total
+Estonia,EE,EST,233,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.299999239999998,Female,Units,%,Modelled,,,Total
+Estonia,EE,EST,233,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.36000061,Male,Units,%,Modelled,,,Total
+Estonia,EE,EST,233,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,27.92000008,Total,Units,%,Modelled,,,Total
+Swaziland,SZ,SWZ,748,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,27.37000084,Female,Units,%,Modelled,,,Total
+Swaziland,SZ,SWZ,748,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.21000004,Male,Units,%,Modelled,,,Total
+Swaziland,SZ,SWZ,748,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.75,Total,Units,%,Modelled,,,Total
+Ethiopia,ET,ETH,231,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,5.75,Female,Units,%,Modelled,,,Total
+Ethiopia,ET,ETH,231,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,3.470000029,Male,Units,%,Modelled,,,Total
+Ethiopia,ET,ETH,231,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,4.590000153,Total,Units,%,Modelled,,,Total
+Fiji,FJ,FJI,242,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,34.93000031,Female,Units,%,Modelled,,,Total
+Fiji,FJ,FJI,242,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.91999817,Male,Units,%,Modelled,,,Total
+Fiji,FJ,FJI,242,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,34.41999817,Total,Units,%,Modelled,,,Total
+Finland,FI,FIN,246,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.53000069,Female,Units,%,Modelled,,,Total
+Finland,FI,FIN,246,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.81000137,Male,Units,%,Modelled,,,Total
+Finland,FI,FIN,246,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.22999954,Total,Units,%,Modelled,,,Total
+France,FR,FRA,250,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.98999977,Female,Units,%,Modelled,,,Total
+France,FR,FRA,250,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.21000004,Male,Units,%,Modelled,,,Total
+France,FR,FRA,250,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.07999992,Total,Units,%,Modelled,,,Total
+French Polynesia,PF,PYF,258,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,48.65000153,Female,Units,%,Modelled,,,Total
+French Polynesia,PF,PYF,258,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,51.95999908,Male,Units,%,Modelled,,,Total
+French Polynesia,PF,PYF,258,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,50.34000015,Total,Units,%,Modelled,,,Total
+Gabon,GA,GAB,266,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.01000023,Female,Units,%,Modelled,,,Total
+Gabon,GA,GAB,266,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.18000031,Male,Units,%,Modelled,,,Total
+Gabon,GA,GAB,266,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.09000015,Total,Units,%,Modelled,,,Total
+Gambia,GM,GMB,270,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.53999996,Female,Units,%,Modelled,,,Total
+Gambia,GM,GMB,270,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.93999958,Male,Units,%,Modelled,,,Total
+Gambia,GM,GMB,270,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,11.72999954,Total,Units,%,Modelled,,,Total
+Georgia,GE,GEO,268,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,20.97999954,Female,Units,%,Modelled,,,Total
+Georgia,GE,GEO,268,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,29.55999947,Male,Units,%,Modelled,,,Total
+Georgia,GE,GEO,268,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.43000031,Total,Units,%,Modelled,,,Total
+Germany,DE,DEU,276,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.52000046,Female,Units,%,Modelled,,,Total
+Germany,DE,DEU,276,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.90999985,Male,Units,%,Modelled,,,Total
+Germany,DE,DEU,276,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,26.299999239999998,Total,Units,%,Modelled,,,Total
+Ghana,GH,GHA,288,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.44000053,Female,Units,%,Modelled,,,Total
+Ghana,GH,GHA,288,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,11.55000019,Male,Units,%,Modelled,,,Total
+Ghana,GH,GHA,288,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.46000004,Total,Units,%,Modelled,,,Total
+Greece,GR,GRC,300,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,29,Female,Units,%,Modelled,,,Total
+Greece,GR,GRC,300,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,34.79999924,Male,Units,%,Modelled,,,Total
+Greece,GR,GRC,300,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32,Total,Units,%,Modelled,,,Total
+Greenland,GL,GRL,304,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.23999977,Female,Units,%,Modelled,,,Total
+Greenland,GL,GRL,304,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.47999954,Male,Units,%,Modelled,,,Total
+Greenland,GL,GRL,304,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.77999973,Total,Units,%,Modelled,,,Total
+Grenada,GD,GRD,308,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.34000015,Female,Units,%,Modelled,,,Total
+Grenada,GD,GRD,308,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.47999954,Male,Units,%,Modelled,,,Total
+Grenada,GD,GRD,308,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.40999985,Total,Units,%,Modelled,,,Total
+Guatemala,GT,GTM,320,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,26.54000092,Female,Units,%,Modelled,,,Total
+Guatemala,GT,GTM,320,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,20.97999954,Male,Units,%,Modelled,,,Total
+Guatemala,GT,GTM,320,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.71999931,Total,Units,%,Modelled,,,Total
+Guinea,GN,GIN,324,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.77000046,Female,Units,%,Modelled,,,Total
+Guinea,GN,GIN,324,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,8.5,Male,Units,%,Modelled,,,Total
+Guinea,GN,GIN,324,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,11.59000015,Total,Units,%,Modelled,,,Total
+Guinea-Bissau,GW,GNB,624,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.65999985,Female,Units,%,Modelled,,,Total
+Guinea-Bissau,GW,GNB,624,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.850000380000001,Male,Units,%,Modelled,,,Total
+Guinea-Bissau,GW,GNB,624,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,11.75,Total,Units,%,Modelled,,,Total
+Guyana,GY,GUY,328,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.25,Female,Units,%,Modelled,,,Total
+Guyana,GY,GUY,328,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.61000061,Male,Units,%,Modelled,,,Total
+Guyana,GY,GUY,328,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,27.82999992,Total,Units,%,Modelled,,,Total
+Haiti,HT,HTI,332,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.85999966,Female,Units,%,Modelled,,,Total
+Haiti,HT,HTI,332,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.40000153,Male,Units,%,Modelled,,,Total
+Haiti,HT,HTI,332,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.200000760000002,Total,Units,%,Modelled,,,Total
+Honduras,HN,HND,340,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,30.17000008,Female,Units,%,Modelled,,,Total
+Honduras,HN,HND,340,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.96999931,Male,Units,%,Modelled,,,Total
+Honduras,HN,HND,340,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.09000015,Total,Units,%,Modelled,,,Total
+Hungary,HU,HUN,348,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.5,Female,Units,%,Modelled,,,Total
+Hungary,HU,HUN,348,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,34.83000183,Male,Units,%,Modelled,,,Total
+Hungary,HU,HUN,348,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.73999977,Total,Units,%,Modelled,,,Total
+Iceland,IS,ISL,352,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.54000092,Female,Units,%,Modelled,,,Total
+Iceland,IS,ISL,352,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.71999931,Male,Units,%,Modelled,,,Total
+Iceland,IS,ISL,352,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.17000008,Total,Units,%,Modelled,,,Total
+India,IN,IND,356,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,8.270000458,Female,Units,%,Modelled,,,Total
+India,IN,IND,356,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.97999954,Male,Units,%,Modelled,,,Total
+India,IN,IND,356,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.68999958,Total,Units,%,Modelled,,,Total
+Indonesia,ID,IDN,360,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.28000069,Female,Units,%,Modelled,,,Total
+Indonesia,ID,IDN,360,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,19.73999977,Male,Units,%,Modelled,,,Total
+Indonesia,ID,IDN,360,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.45999908,Total,Units,%,Modelled,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.12000084,Female,Units,%,Modelled,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.36999893,Male,Units,%,Modelled,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,30.799999239999998,Total,Units,%,Modelled,,,Total
+Iraq,IQ,IRQ,368,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,41.63999939,Female,Units,%,Modelled,,,Total
+Iraq,IQ,IRQ,368,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,38.08000183,Male,Units,%,Modelled,,,Total
+Iraq,IQ,IRQ,368,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.81999969,Total,Units,%,Modelled,,,Total
+Ireland,IE,IRL,372,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.12999916,Female,Units,%,Modelled,,,Total
+Ireland,IE,IRL,372,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.35000038,Male,Units,%,Modelled,,,Total
+Ireland,IE,IRL,372,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.23999977,Total,Units,%,Modelled,,,Total
+Israel,IL,ISR,376,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.94000053,Female,Units,%,Modelled,,,Total
+Israel,IL,ISR,376,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24,Male,Units,%,Modelled,,,Total
+Israel,IL,ISR,376,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.47999954,Total,Units,%,Modelled,,,Total
+Italy,IT,ITA,380,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.03000069,Female,Units,%,Modelled,,,Total
+Italy,IT,ITA,380,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,27.28000069,Male,Units,%,Modelled,,,Total
+Italy,IT,ITA,380,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.25,Total,Units,%,Modelled,,,Total
+Jamaica,JM,JAM,388,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.88000107,Female,Units,%,Modelled,,,Total
+Jamaica,JM,JAM,388,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.82999992,Male,Units,%,Modelled,,,Total
+Jamaica,JM,JAM,388,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,34.79999924,Total,Units,%,Modelled,,,Total
+Japan,JP,JPN,392,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.81000042,Female,Units,%,Modelled,,,Total
+Japan,JP,JPN,392,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.92000008,Male,Units,%,Modelled,,,Total
+Japan,JP,JPN,392,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.42000008,Total,Units,%,Modelled,,,Total
+Jordan,JO,JOR,400,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,38.43999863,Female,Units,%,Modelled,,,Total
+Jordan,JO,JOR,400,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,40.72000122,Male,Units,%,Modelled,,,Total
+Jordan,JO,JOR,400,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.59000015,Total,Units,%,Modelled,,,Total
+Kazakhstan,KZ,KAZ,398,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.14000034,Female,Units,%,Modelled,,,Total
+Kazakhstan,KZ,KAZ,398,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.11000061,Male,Units,%,Modelled,,,Total
+Kazakhstan,KZ,KAZ,398,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.70999908,Total,Units,%,Modelled,,,Total
+Kenya,KE,KEN,404,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.56999969,Female,Units,%,Modelled,,,Total
+Kenya,KE,KEN,404,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,4.75,Male,Units,%,Modelled,,,Total
+Kenya,KE,KEN,404,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.159999847,Total,Units,%,Modelled,,,Total
+Kiribati,KI,KIR,296,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,47.70999908,Female,Units,%,Modelled,,,Total
+Kiribati,KI,KIR,296,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,48.29999924,Male,Units,%,Modelled,,,Total
+Kiribati,KI,KIR,296,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,48,Total,Units,%,Modelled,,,Total
+Kuwait,KW,KWT,414,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,47.38999939,Female,Units,%,Modelled,,,Total
+Kuwait,KW,KWT,414,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,56.15999985,Male,Units,%,Modelled,,,Total
+Kuwait,KW,KWT,414,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,52.20999908,Total,Units,%,Modelled,,,Total
+Kyrgyzstan,KG,KGZ,417,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.5,Female,Units,%,Modelled,,,Total
+Kyrgyzstan,KG,KGZ,417,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.56999969,Male,Units,%,Modelled,,,Total
+Kyrgyzstan,KG,KGZ,417,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,11.55000019,Total,Units,%,Modelled,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.06000042,Female,Units,%,Modelled,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.56999969,Male,Units,%,Modelled,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.36999989,Total,Units,%,Modelled,,,Total
+Latvia,LV,LVA,428,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.51000023,Female,Units,%,Modelled,,,Total
+Latvia,LV,LVA,428,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,20.35000038,Male,Units,%,Modelled,,,Total
+Latvia,LV,LVA,428,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.96999931,Total,Units,%,Modelled,,,Total
+Lebanon,LB,LBN,422,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.68999863,Female,Units,%,Modelled,,,Total
+Lebanon,LB,LBN,422,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,47.84000015,Male,Units,%,Modelled,,,Total
+Lebanon,LB,LBN,422,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42,Total,Units,%,Modelled,,,Total
+Lesotho,LS,LSO,426,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,19.38999939,Female,Units,%,Modelled,,,Total
+Lesotho,LS,LSO,426,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,6.340000153,Male,Units,%,Modelled,,,Total
+Lesotho,LS,LSO,426,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.90999985,Total,Units,%,Modelled,,,Total
+Liberia,LR,LBR,430,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.60000038,Female,Units,%,Modelled,,,Total
+Liberia,LR,LBR,430,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.31000042,Male,Units,%,Modelled,,,Total
+Liberia,LR,LBR,430,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.94999981,Total,Units,%,Modelled,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.95999908,Female,Units,%,Modelled,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,34.63000107,Male,Units,%,Modelled,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.77000046,Total,Units,%,Modelled,,,Total
+Lithuania,LT,LTU,440,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.07999992,Female,Units,%,Modelled,,,Total
+Lithuania,LT,LTU,440,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.87000084,Male,Units,%,Modelled,,,Total
+Lithuania,LT,LTU,440,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17,Total,Units,%,Modelled,,,Total
+Luxembourg,LU,LUX,442,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,19.42000008,Female,Units,%,Modelled,,,Total
+Luxembourg,LU,LUX,442,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.60000038,Male,Units,%,Modelled,,,Total
+Luxembourg,LU,LUX,442,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.05999947,Total,Units,%,Modelled,,,Total
+Madagascar,MG,MDG,450,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,4.309999943,Female,Units,%,Modelled,,,Total
+Madagascar,MG,MDG,450,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.650000095,Male,Units,%,Modelled,,,Total
+Madagascar,MG,MDG,450,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,5.989999771,Total,Units,%,Modelled,,,Total
+Malawi,MW,MWI,454,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,11.43999958,Female,Units,%,Modelled,,,Total
+Malawi,MW,MWI,454,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,5.190000057,Male,Units,%,Modelled,,,Total
+Malawi,MW,MWI,454,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,8.340000153,Total,Units,%,Modelled,,,Total
+Malaysia,MY,MYS,458,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.05999947,Female,Units,%,Modelled,,,Total
+Malaysia,MY,MYS,458,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.75,Male,Units,%,Modelled,,,Total
+Malaysia,MY,MYS,458,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.47000122,Total,Units,%,Modelled,,,Total
+Maldives,MV,MDV,462,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.31999969,Female,Units,%,Modelled,,,Total
+Maldives,MV,MDV,462,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.18000031,Male,Units,%,Modelled,,,Total
+Maldives,MV,MDV,462,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,30.049999239999998,Total,Units,%,Modelled,,,Total
+Mali,ML,MLI,466,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.43000031,Female,Units,%,Modelled,,,Total
+Mali,ML,MLI,466,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.02999973,Male,Units,%,Modelled,,,Total
+Mali,ML,MLI,466,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.72000027,Total,Units,%,Modelled,,,Total
+Malta,MT,MLT,470,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.45999908,Female,Units,%,Modelled,,,Total
+Malta,MT,MLT,470,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,27.37000084,Male,Units,%,Modelled,,,Total
+Malta,MT,MLT,470,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.47999954,Total,Units,%,Modelled,,,Total
+Marshall Islands,MH,MHL,584,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,40.33000183,Female,Units,%,Modelled,,,Total
+Marshall Islands,MH,MHL,584,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.31999969,Male,Units,%,Modelled,,,Total
+Marshall Islands,MH,MHL,584,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.79999924,Total,Units,%,Modelled,,,Total
+Mauritania,MR,MRT,478,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.86000061,Female,Units,%,Modelled,,,Total
+Mauritania,MR,MRT,478,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.89000034,Male,Units,%,Modelled,,,Total
+Mauritania,MR,MRT,478,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.34000015,Total,Units,%,Modelled,,,Total
+Mauritius,MU,MUS,480,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28,Female,Units,%,Modelled,,,Total
+Mauritius,MU,MUS,480,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,29.88999939,Male,Units,%,Modelled,,,Total
+Mauritius,MU,MUS,480,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.950000760000002,Total,Units,%,Modelled,,,Total
+Mexico,MX,MEX,484,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.79000092,Female,Units,%,Modelled,,,Total
+Mexico,MX,MEX,484,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,40.06999969,Male,Units,%,Modelled,,,Total
+Mexico,MX,MEX,484,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.93000031,Total,Units,%,Modelled,,,Total
+"Micronesia, Federated States of",FM,FSM,583,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,50.70999908,Female,Units,%,Modelled,,,Total
+"Micronesia, Federated States of",FM,FSM,583,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,41.79000092,Male,Units,%,Modelled,,,Total
+"Micronesia, Federated States of",FM,FSM,583,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,46.18999863,Total,Units,%,Modelled,,,Total
+Mongolia,MN,MNG,496,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.19000053,Female,Units,%,Modelled,,,Total
+Mongolia,MN,MNG,496,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.11000061,Male,Units,%,Modelled,,,Total
+Mongolia,MN,MNG,496,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.17000008,Total,Units,%,Modelled,,,Total
+Montenegro,ME,MNE,499,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.62999916,Female,Units,%,Modelled,,,Total
+Montenegro,ME,MNE,499,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.28000069,Male,Units,%,Modelled,,,Total
+Montenegro,ME,MNE,499,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.200000760000002,Total,Units,%,Modelled,,,Total
+Morocco,MA,MAR,504,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.799999239999998,Female,Units,%,Modelled,,,Total
+Morocco,MA,MAR,504,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,20.36000061,Male,Units,%,Modelled,,,Total
+Morocco,MA,MAR,504,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.55999947,Total,Units,%,Modelled,,,Total
+Mozambique,MZ,MOZ,508,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.14000034,Female,Units,%,Modelled,,,Total
+Mozambique,MZ,MOZ,508,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.190000057,Male,Units,%,Modelled,,,Total
+Mozambique,MZ,MOZ,508,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,8.6700000760000009,Total,Units,%,Modelled,,,Total
+Myanmar,MM,MMR,104,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.890000343,Female,Units,%,Modelled,,,Total
+Myanmar,MM,MMR,104,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,20.04000092,Male,Units,%,Modelled,,,Total
+Myanmar,MM,MMR,104,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.07999992,Total,Units,%,Modelled,,,Total
+Namibia,,NAM,516,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.92000008,Female,Units,%,Modelled,,,Total
+Namibia,,NAM,516,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.53999996,Male,Units,%,Modelled,,,Total
+Namibia,,NAM,516,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.19999981,Total,Units,%,Modelled,,,Total
+Nauru,NR,NRU,520,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,58.11999893,Female,Units,%,Modelled,,,Total
+Nauru,NR,NRU,520,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,68.12000275,Male,Units,%,Modelled,,,Total
+Nauru,NR,NRU,520,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,63.34999847,Total,Units,%,Modelled,,,Total
+Nepal,NP,NPL,524,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.72999954,Female,Units,%,Modelled,,,Total
+Nepal,NP,NPL,524,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,6.849999905,Male,Units,%,Modelled,,,Total
+Nepal,NP,NPL,524,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,8.760000229,Total,Units,%,Modelled,,,Total
+Netherlands,NL,NLD,528,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.86999989,Female,Units,%,Modelled,,,Total
+Netherlands,NL,NLD,528,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.53000069,Male,Units,%,Modelled,,,Total
+Netherlands,NL,NLD,528,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.71999931,Total,Units,%,Modelled,,,Total
+New Zealand,NZ,NZL,554,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.54999924,Female,Units,%,Modelled,,,Total
+New Zealand,NZ,NZL,554,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,38.04999924,Male,Units,%,Modelled,,,Total
+New Zealand,NZ,NZL,554,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,40.25,Total,Units,%,Modelled,,,Total
+Nicaragua,NI,NIC,558,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.84000015,Female,Units,%,Modelled,,,Total
+Nicaragua,NI,NIC,558,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.06999969,Male,Units,%,Modelled,,,Total
+Nicaragua,NI,NIC,558,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.45000076,Total,Units,%,Modelled,,,Total
+Niger,NE,NER,562,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.25,Female,Units,%,Modelled,,,Total
+Niger,NE,NER,562,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,11.100000380000001,Male,Units,%,Modelled,,,Total
+Niger,NE,NER,562,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.210000038,Total,Units,%,Modelled,,,Total
+Nigeria,NG,NGA,566,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.489999771,Female,Units,%,Modelled,,,Total
+Nigeria,NG,NGA,566,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.590000153,Male,Units,%,Modelled,,,Total
+Nigeria,NG,NGA,566,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,8.520000458,Total,Units,%,Modelled,,,Total
+Niue,NU,NIU,570,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,65.86000061,Female,Units,%,Modelled,,,Total
+Niue,NU,NIU,570,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,69.94999695,Male,Units,%,Modelled,,,Total
+Niue,NU,NIU,570,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,67.79000092,Total,Units,%,Modelled,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,20.36000061,Female,Units,%,Modelled,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.44000053,Male,Units,%,Modelled,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.54000092,Total,Units,%,Modelled,,,Total
+Norway,NO,NOR,578,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.299999239999998,Female,Units,%,Modelled,,,Total
+Norway,NO,NOR,578,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.87000084,Male,Units,%,Modelled,,,Total
+Norway,NO,NOR,578,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.12999916,Total,Units,%,Modelled,,,Total
+Oman,OM,OMN,512,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.70000076,Female,Units,%,Modelled,,,Total
+Oman,OM,OMN,512,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.08000183,Male,Units,%,Modelled,,,Total
+Oman,OM,OMN,512,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.43999863,Total,Units,%,Modelled,,,Total
+Pakistan,PK,PAK,586,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.89999962,Female,Units,%,Modelled,,,Total
+Pakistan,PK,PAK,586,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,19.68000031,Male,Units,%,Modelled,,,Total
+Pakistan,PK,PAK,586,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,19.299999239999998,Total,Units,%,Modelled,,,Total
+Palau,PW,PLW,585,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,49.50999832,Female,Units,%,Modelled,,,Total
+Palau,PW,PLW,585,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,52.24000168,Male,Units,%,Modelled,,,Total
+Palau,PW,PLW,585,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,50.90999985,Total,Units,%,Modelled,,,Total
+Panama,PA,PAN,591,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.16999817,Female,Units,%,Modelled,,,Total
+Panama,PA,PAN,591,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.94000053,Male,Units,%,Modelled,,,Total
+Panama,PA,PAN,591,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.93999863,Total,Units,%,Modelled,,,Total
+Papua New Guinea,PG,PNG,598,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.68000031,Female,Units,%,Modelled,,,Total
+Papua New Guinea,PG,PNG,598,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.29000092,Male,Units,%,Modelled,,,Total
+Papua New Guinea,PG,PNG,598,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,40.90999985,Total,Units,%,Modelled,,,Total
+Paraguay,PY,PRY,600,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.73999977,Female,Units,%,Modelled,,,Total
+Paraguay,PY,PRY,600,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,30.72999954,Male,Units,%,Modelled,,,Total
+Paraguay,PY,PRY,600,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.22999954,Total,Units,%,Modelled,,,Total
+Peru,PE,PER,604,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.20000076,Female,Units,%,Modelled,,,Total
+Peru,PE,PER,604,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.95000076,Male,Units,%,Modelled,,,Total
+Peru,PE,PER,604,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,38.56999969,Total,Units,%,Modelled,,,Total
+Philippines,PH,PHL,608,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.84000015,Female,Units,%,Modelled,,,Total
+Philippines,PH,PHL,608,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.22999954,Male,Units,%,Modelled,,,Total
+Philippines,PH,PHL,608,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.59000015,Total,Units,%,Modelled,,,Total
+Poland,PL,POL,616,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,19.87000084,Female,Units,%,Modelled,,,Total
+Poland,PL,POL,616,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.60000038,Male,Units,%,Modelled,,,Total
+Poland,PL,POL,616,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.78000069,Total,Units,%,Modelled,,,Total
+Portugal,PT,PRT,620,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.12999916,Female,Units,%,Modelled,,,Total
+Portugal,PT,PRT,620,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.84000015,Male,Units,%,Modelled,,,Total
+Portugal,PT,PRT,620,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.48999977,Total,Units,%,Modelled,,,Total
+Puerto Rico,PR,PRI,630,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,38.47000122,Female,Units,%,Modelled,,,Total
+Puerto Rico,PR,PRI,630,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.16999817,Male,Units,%,Modelled,,,Total
+Puerto Rico,PR,PRI,630,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.79999924,Total,Units,%,Modelled,,,Total
+Qatar,QA,QAT,634,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,41.81000137,Female,Units,%,Modelled,,,Total
+Qatar,QA,QAT,634,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,54.79999924,Male,Units,%,Modelled,,,Total
+Qatar,QA,QAT,634,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,48.25999832,Total,Units,%,Modelled,,,Total
+South Korea,KR,KOR,410,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.5,Female,Units,%,Modelled,,,Total
+South Korea,KR,KOR,410,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,41.72000122,Male,Units,%,Modelled,,,Total
+South Korea,KR,KOR,410,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.41999817,Total,Units,%,Modelled,,,Total
+"Moldova, Republic of",MD,MDA,498,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.88000011,Female,Units,%,Modelled,,,Total
+"Moldova, Republic of",MD,MDA,498,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,19.68000031,Male,Units,%,Modelled,,,Total
+"Moldova, Republic of",MD,MDA,498,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.79000092,Total,Units,%,Modelled,,,Total
+Romania,RO,ROU,642,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.93000031,Female,Units,%,Modelled,,,Total
+Romania,RO,ROU,642,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.79000092,Male,Units,%,Modelled,,,Total
+Romania,RO,ROU,642,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,20.40999985,Total,Units,%,Modelled,,,Total
+Russian Federation,RU,RUS,643,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.13000011,Female,Units,%,Modelled,,,Total
+Russian Federation,RU,RUS,643,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.15999985,Male,Units,%,Modelled,,,Total
+Russian Federation,RU,RUS,643,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.69999981,Total,Units,%,Modelled,,,Total
+Rwanda,RW,RWA,646,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.78999996,Female,Units,%,Modelled,,,Total
+Rwanda,RW,RWA,646,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,3.839999914,Male,Units,%,Modelled,,,Total
+Rwanda,RW,RWA,646,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.789999962,Total,Units,%,Modelled,,,Total
+Saint Kitts and Nevis,KN,KNA,659,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.02999878,Female,Units,%,Modelled,,,Total
+Saint Kitts and Nevis,KN,KNA,659,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.90000153,Male,Units,%,Modelled,,,Total
+Saint Kitts and Nevis,KN,KNA,659,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.45999908,Total,Units,%,Modelled,,,Total
+Saint Lucia,LC,LCA,662,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,40.56999969,Female,Units,%,Modelled,,,Total
+Saint Lucia,LC,LCA,662,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.70000076,Male,Units,%,Modelled,,,Total
+Saint Lucia,LC,LCA,662,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.54999924,Total,Units,%,Modelled,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,40.02999878,Female,Units,%,Modelled,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.04999924,Male,Units,%,Modelled,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.95999908,Total,Units,%,Modelled,,,Total
+Samoa,WS,WSM,882,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,56.29999924,Female,Units,%,Modelled,,,Total
+Samoa,WS,WSM,882,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,52.45000076,Male,Units,%,Modelled,,,Total
+Samoa,WS,WSM,882,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,54.31000137,Total,Units,%,Modelled,,,Total
+Sao Tome and Principe,ST,STP,678,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.43999958,Female,Units,%,Modelled,,,Total
+Sao Tome and Principe,ST,STP,678,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.59000015,Male,Units,%,Modelled,,,Total
+Sao Tome and Principe,ST,STP,678,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.01000023,Total,Units,%,Modelled,,,Total
+Saudi Arabia,SA,SAU,682,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,41.59000015,Female,Units,%,Modelled,,,Total
+Saudi Arabia,SA,SAU,682,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,50.20000076,Male,Units,%,Modelled,,,Total
+Saudi Arabia,SA,SAU,682,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,45.97999954,Total,Units,%,Modelled,,,Total
+Senegal,SN,SEN,686,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.800000191,Female,Units,%,Modelled,,,Total
+Senegal,SN,SEN,686,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,5.699999809,Male,Units,%,Modelled,,,Total
+Senegal,SN,SEN,686,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.730000019,Total,Units,%,Modelled,,,Total
+Serbia,RS,SRB,688,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.97999954,Female,Units,%,Modelled,,,Total
+Serbia,RS,SRB,688,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.70999908,Male,Units,%,Modelled,,,Total
+Serbia,RS,SRB,688,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,29.48999977,Total,Units,%,Modelled,,,Total
+Seychelles,SC,SYC,690,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.31999969,Female,Units,%,Modelled,,,Total
+Seychelles,SC,SYC,690,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.46999931,Male,Units,%,Modelled,,,Total
+Seychelles,SC,SYC,690,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,34.33000183,Total,Units,%,Modelled,,,Total
+Sierra Leone,SL,SLE,694,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.14000034,Female,Units,%,Modelled,,,Total
+Sierra Leone,SL,SLE,694,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.739999771,Male,Units,%,Modelled,,,Total
+Sierra Leone,SL,SLE,694,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,11.42000008,Total,Units,%,Modelled,,,Total
+Singapore,SG,SGP,702,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,27.39999962,Female,Units,%,Modelled,,,Total
+Singapore,SG,SGP,702,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,41.90999985,Male,Units,%,Modelled,,,Total
+Singapore,SG,SGP,702,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,34.81999969,Total,Units,%,Modelled,,,Total
+Slovakia,SK,SVK,703,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.98999977,Female,Units,%,Modelled,,,Total
+Slovakia,SK,SVK,703,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.11000061,Male,Units,%,Modelled,,,Total
+Slovakia,SK,SVK,703,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.64999962,Total,Units,%,Modelled,,,Total
+Slovenia,SI,SVN,705,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.87999916,Female,Units,%,Modelled,,,Total
+Slovenia,SI,SVN,705,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.21999931,Male,Units,%,Modelled,,,Total
+Slovenia,SI,SVN,705,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,27.63999939,Total,Units,%,Modelled,,,Total
+Solomon Islands,SB,SLB,90,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.04000092,Female,Units,%,Modelled,,,Total
+Solomon Islands,SB,SLB,90,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.85000038,Male,Units,%,Modelled,,,Total
+Solomon Islands,SB,SLB,90,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,27.77000046,Total,Units,%,Modelled,,,Total
+Somalia,SO,SOM,706,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.02999973,Female,Units,%,Modelled,,,Total
+Somalia,SO,SOM,706,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.809999943,Male,Units,%,Modelled,,,Total
+Somalia,SO,SOM,706,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.39000034,Total,Units,%,Modelled,,,Total
+South Africa,ZA,ZAF,710,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,29.40999985,Female,Units,%,Modelled,,,Total
+South Africa,ZA,ZAF,710,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.43000031,Male,Units,%,Modelled,,,Total
+South Africa,ZA,ZAF,710,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.79000092,Total,Units,%,Modelled,,,Total
+South Sudan,SS,SSD,728,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.72000027,Female,Units,%,Modelled,,,Total
+South Sudan,SS,SSD,728,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.25,Male,Units,%,Modelled,,,Total
+South Sudan,SS,SSD,728,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.44999981,Total,Units,%,Modelled,,,Total
+Spain,ES,ESP,724,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,26.89999962,Female,Units,%,Modelled,,,Total
+Spain,ES,ESP,724,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,29.35000038,Male,Units,%,Modelled,,,Total
+Spain,ES,ESP,724,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.15999985,Total,Units,%,Modelled,,,Total
+Sri Lanka,LK,LKA,144,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.5,Female,Units,%,Modelled,,,Total
+Sri Lanka,LK,LKA,144,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.30999947,Male,Units,%,Modelled,,,Total
+Sri Lanka,LK,LKA,144,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.40999985,Total,Units,%,Modelled,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.13999939,Female,Units,%,Modelled,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.75,Male,Units,%,Modelled,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.93999863,Total,Units,%,Modelled,,,Total
+Sudan,SD,SDN,736,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.819999695,Female,Units,%,Modelled,,,Total
+Sudan,SD,SDN,736,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.90999985,Male,Units,%,Modelled,,,Total
+Sudan,SD,SDN,736,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.899999619999999,Total,Units,%,Modelled,,,Total
+Suriname,SR,SUR,740,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,34.16999817,Female,Units,%,Modelled,,,Total
+Suriname,SR,SUR,740,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.68000031,Male,Units,%,Modelled,,,Total
+Suriname,SR,SUR,740,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.43999863,Total,Units,%,Modelled,,,Total
+Sweden,SE,SWE,752,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.52000046,Female,Units,%,Modelled,,,Total
+Sweden,SE,SWE,752,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,26.88999939,Male,Units,%,Modelled,,,Total
+Sweden,SE,SWE,752,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,25.26000023,Total,Units,%,Modelled,,,Total
+Switzerland,CH,CHE,756,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,22.97999954,Female,Units,%,Modelled,,,Total
+Switzerland,CH,CHE,756,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.299999239999998,Male,Units,%,Modelled,,,Total
+Switzerland,CH,CHE,756,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,23.64999962,Total,Units,%,Modelled,,,Total
+Syrian Arab Republic,SY,SYR,760,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.24000168,Female,Units,%,Modelled,,,Total
+Syrian Arab Republic,SY,SYR,760,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.36000061,Male,Units,%,Modelled,,,Total
+Syrian Arab Republic,SY,SYR,760,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.31999969,Total,Units,%,Modelled,,,Total
+Tajikistan,TJ,TJK,762,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.42000008,Female,Units,%,Modelled,,,Total
+Tajikistan,TJ,TJK,762,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.489999771,Male,Units,%,Modelled,,,Total
+Tajikistan,TJ,TJK,762,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.93999958,Total,Units,%,Modelled,,,Total
+Thailand,TH,THA,764,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,20.59000015,Female,Units,%,Modelled,,,Total
+Thailand,TH,THA,764,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.72999954,Male,Units,%,Modelled,,,Total
+Thailand,TH,THA,764,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,24.77000046,Total,Units,%,Modelled,,,Total
+Timor-Leste,TL,TLS,626,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,3.5999999049999998,Female,Units,%,Modelled,,,Total
+Timor-Leste,TL,TLS,626,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,3.579999924,Male,Units,%,Modelled,,,Total
+Timor-Leste,TL,TLS,626,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,3.589999914,Total,Units,%,Modelled,,,Total
+Togo,TG,TGO,768,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.78999996,Female,Units,%,Modelled,,,Total
+Togo,TG,TGO,768,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.06000042,Male,Units,%,Modelled,,,Total
+Togo,TG,TGO,768,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.899999619999999,Total,Units,%,Modelled,,,Total
+Tokelau,TK,TKL,772,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,60.31999969,Female,Units,%,Modelled,,,Total
+Tokelau,TK,TKL,772,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,61.25999832,Male,Units,%,Modelled,,,Total
+Tokelau,TK,TKL,772,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,60.81999969,Total,Units,%,Modelled,,,Total
+Tonga,TO,TON,776,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,67.11000061,Female,Units,%,Modelled,,,Total
+Tonga,TO,TON,776,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,57.56000137,Male,Units,%,Modelled,,,Total
+Tonga,TO,TON,776,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,62.18999863,Total,Units,%,Modelled,,,Total
+Trinidad and Tobago,TT,TTO,780,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.65000153,Female,Units,%,Modelled,,,Total
+Trinidad and Tobago,TT,TTO,780,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.50999832,Male,Units,%,Modelled,,,Total
+Trinidad and Tobago,TT,TTO,780,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,39.13999939,Total,Units,%,Modelled,,,Total
+Tunisia,TN,TUN,788,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,30.21999931,Female,Units,%,Modelled,,,Total
+Tunisia,TN,TUN,788,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,26.87000084,Male,Units,%,Modelled,,,Total
+Tunisia,TN,TUN,788,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,28.5,Total,Units,%,Modelled,,,Total
+Turkmenistan,TM,TKM,795,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.42000008,Female,Units,%,Modelled,,,Total
+Turkmenistan,TM,TKM,795,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.77000046,Male,Units,%,Modelled,,,Total
+Turkmenistan,TM,TKM,795,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,16.15999985,Total,Units,%,Modelled,,,Total
+Tuvalu,TV,TUV,798,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,55.04999924,Female,Units,%,Modelled,,,Total
+Tuvalu,TV,TUV,798,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,58.31999969,Male,Units,%,Modelled,,,Total
+Tuvalu,TV,TUV,798,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,56.79000092,Total,Units,%,Modelled,,,Total
+Turkey,TR,TUR,792,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,33.43000031,Female,Units,%,Modelled,,,Total
+Turkey,TR,TUR,792,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.13000107,Male,Units,%,Modelled,,,Total
+Turkey,TR,TUR,792,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.75999832,Total,Units,%,Modelled,,,Total
+Uganda,UG,UGA,800,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.909999847,Female,Units,%,Modelled,,,Total
+Uganda,UG,UGA,800,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.43999958,Male,Units,%,Modelled,,,Total
+Uganda,UG,UGA,800,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.6700000760000009,Total,Units,%,Modelled,,,Total
+Ukraine,UA,UKR,804,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.820000172,Female,Units,%,Modelled,,,Total
+Ukraine,UA,UKR,804,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.02000046,Male,Units,%,Modelled,,,Total
+Ukraine,UA,UKR,804,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,13.10999966,Total,Units,%,Modelled,,,Total
+United Arab Emirates,AE,ARE,784,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,42.33000183,Female,Units,%,Modelled,,,Total
+United Arab Emirates,AE,ARE,784,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,49.68999863,Male,Units,%,Modelled,,,Total
+United Arab Emirates,AE,ARE,784,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,46.04999924,Total,Units,%,Modelled,,,Total
+United Kingdom,GB,GBR,826,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,31.73999977,Female,Units,%,Modelled,,,Total
+United Kingdom,GB,GBR,826,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,29.06999969,Male,Units,%,Modelled,,,Total
+United Kingdom,GB,GBR,826,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,30.37000084,Total,Units,%,Modelled,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,10.17000008,Female,Units,%,Modelled,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,5.0399999619999996,Male,Units,%,Modelled,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,7.590000153,Total,Units,%,Modelled,,,Total
+United States,US,USA,840,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,43.25999832,Female,Units,%,Modelled,,,Total
+United States,US,USA,840,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,43.56000137,Male,Units,%,Modelled,,,Total
+United States,US,USA,840,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,43.40999985,Total,Units,%,Modelled,,,Total
+Uruguay,UY,URY,858,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.70000076,Female,Units,%,Modelled,,,Total
+Uruguay,UY,URY,858,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,37.52999878,Male,Units,%,Modelled,,,Total
+Uruguay,UY,URY,858,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,36.63000107,Total,Units,%,Modelled,,,Total
+Uzbekistan,UZ,UZB,860,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.149999619999999,Female,Units,%,Modelled,,,Total
+Uzbekistan,UZ,UZB,860,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.25,Male,Units,%,Modelled,,,Total
+Uzbekistan,UZ,UZB,860,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.29000092,Total,Units,%,Modelled,,,Total
+Vanuatu,VU,VUT,548,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.97000122,Female,Units,%,Modelled,,,Total
+Vanuatu,VU,VUT,548,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.54000092,Male,Units,%,Modelled,,,Total
+Vanuatu,VU,VUT,548,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,34.20999908,Total,Units,%,Modelled,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,32.22000122,Female,Units,%,Modelled,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,38.81999969,Male,Units,%,Modelled,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,35.61000061,Total,Units,%,Modelled,,,Total
+Vietnam,VN,VNM,704,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.180000305,Female,Units,%,Modelled,,,Total
+Vietnam,VN,VNM,704,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,18.94000053,Male,Units,%,Modelled,,,Total
+Vietnam,VN,VNM,704,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.27000046,Total,Units,%,Modelled,,,Total
+Yemen,YE,YEM,887,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.63000011,Female,Units,%,Modelled,,,Total
+Yemen,YE,YEM,887,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,21.049999239999998,Male,Units,%,Modelled,,,Total
+Yemen,YE,YEM,887,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,17.90999985,Total,Units,%,Modelled,,,Total
+Zambia,ZM,ZMB,894,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,15.39000034,Female,Units,%,Modelled,,,Total
+Zambia,ZM,ZMB,894,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.539999962,Male,Units,%,Modelled,,,Total
+Zambia,ZM,ZMB,894,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,12.47000027,Total,Units,%,Modelled,,,Total
+Zimbabwe,ZW,ZWE,716,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,14.06000042,Female,Units,%,Modelled,,,Total
+Zimbabwe,ZW,ZWE,716,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,5.6300001140000004,Male,Units,%,Modelled,,,Total
+Zimbabwe,ZW,ZWE,716,"Prevalence of overweight among children aged 10-19 years, BMI > +1 standard deviations above the median (Crude estimate)",2022,9.909999847,Total,Units,%,Modelled,,,Total
