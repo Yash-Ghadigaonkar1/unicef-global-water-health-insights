@@ -4,7 +4,7 @@ This project explores the intersection of water access and youth health using UN
 
 ---
 
-## 📊 Project Summary
+## Project Summary
 
 **Title:**  
 **Pipes, Pounds & Progress: A Global Look at Water Access and Youth Health**
@@ -14,7 +14,7 @@ Analyze and visualize how piped water access correlates with public health indic
 
 ---
 
-## 📁 Files
+##  Files
 
 | File                          | Description                                         |
 |-------------------------------|-----------------------------------------------------|
@@ -26,17 +26,17 @@ Analyze and visualize how piped water access correlates with public health indic
 
 ---
 
-## 📈 Visualizations Included
+##  Visualizations Included
 
-- 🌍 **Choropleth Map**: Global map showing % of population using piped water (by country)
-- 📊 **Bar Chart**: Top 10 and Bottom 10 countries ranked by piped water access
-- 🧵 **Line Plot**: Time series trends of piped water access by UNICEF regional classification (2000–2020)
-- 🔗 **Scatter Plot with Regression Line**: Exploring the relationship between piped water access (%) and childhood overweight rates (%)
-- 🌐 **Faceted Scatterplots**: Regional comparisons of water access vs child health (small multiples for each region)
+-  **Choropleth Map**: Global map showing % of population using piped water (by country)
+-  **Bar Chart**: Top 10 and Bottom 10 countries ranked by piped water access
+-  **Line Plot**: Time series trends of piped water access by UNICEF regional classification (2000–2020)
+-  **Scatter Plot with Regression Line**: Exploring the relationship between piped water access (%) and childhood overweight rates (%)
+-  **Faceted Scatterplots**: Regional comparisons of water access vs child health (small multiples for each region)
 
 ---
 
-## 🔧 Tools & Libraries
+##  Tools & Libraries
 
 - [Python](https://www.python.org/)
 - [Plotnine](https://plotnine.readthedocs.io/)
@@ -45,7 +45,7 @@ Analyze and visualize how piped water access correlates with public health indic
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 
 - Limited water infrastructure correlates strongly with poor health outcomes among youth.
 - Significant disparities exist across countries and regions, as well as over time.
@@ -53,11 +53,11 @@ Analyze and visualize how piped water access correlates with public health indic
 
 ---
 
-## 📜 License
+##  License
 
 This project is for educational purposes only.  
 Data is sourced from [UNICEF](https://data.unicef.org/) and [World Bank Open Data](https://data.worldbank.org/).
 
 ---
 
-> Created by **Yash Ghadigaonkar**
+> Created by **Yash Ghadigaonkar (A00013230)**
